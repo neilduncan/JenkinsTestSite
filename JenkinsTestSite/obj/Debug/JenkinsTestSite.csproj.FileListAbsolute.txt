@@ -1,7 +1,0 @@
-C:\Playground\JenkinsTestSite\JenkinsTestSite\bin\JenkinsTestSite.dll
-C:\Playground\JenkinsTestSite\JenkinsTestSite\bin\JenkinsTestSite.pdb
-C:\Playground\JenkinsTestSite\JenkinsTestSite\bin\EntityFramework.dll
-C:\Playground\JenkinsTestSite\JenkinsTestSite\bin\EntityFramework.xml
-C:\Playground\JenkinsTestSite\JenkinsTestSite\obj\Debug\ResolveAssemblyReference.cache
-C:\Playground\JenkinsTestSite\JenkinsTestSite\obj\Debug\JenkinsTestSite.dll
-C:\Playground\JenkinsTestSite\JenkinsTestSite\obj\Debug\JenkinsTestSite.pdb
