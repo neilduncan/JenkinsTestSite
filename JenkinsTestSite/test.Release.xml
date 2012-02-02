@@ -3,6 +3,6 @@
      see the web.config examples at http://go.microsoft.com/fwlink/?LinkId=214134. -->
 <neil xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
   <thisisanothertest xdt:Transform="Insert">
-    <woooah>wooaaaaaaaaaaaaaaaaaaaaah</woooah>
+    <woooah>yes</woooah>
   </thisisanothertest>
 </neil>
