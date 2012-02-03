@@ -1,3 +1,4 @@
 <Modules>
   <Module PersistentId="0F0A8094-6695-47A9-9F16-10C5810C5CEF" ModuleId="JenkinsTestSite" />
+  <Module PersistentId="CC6DEF24-0D96-42DB-94D8-494F7CEB4F66" ModuleId="Example.Tests" />
 </Modules>
