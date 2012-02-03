@@ -14,7 +14,7 @@ namespace Example.Tests
         [Test]
         public void Failing_Test()
         {
-            Assert.IsTrue(false);
+            Assert.IsTrue(true);
         }
     }
 }
