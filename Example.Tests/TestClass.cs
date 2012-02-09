@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using JenkinsTestSite.Controllers;
+using NUnit.Framework;
 
 namespace Example.Tests
 {
@@ -6,17 +7,13 @@ namespace Example.Tests
     public class TestClass
     {
         [Test]
-        public void Passing_Test()
+        public void TestController_MethodToTest()
         {
-            Assert.IsTrue(true);
-        }
+            var controller = new TestController();
 
-        //        [Test]
-        //        public void Failing_Test()
-        //        {
-        //#if DEBUG
-        //            Assert.IsTrue(false);
-        //#endif
-        //        }
+            var i = controller.MethodToTest();
+
+            Assert.AreEqual(1, i);
+        }
     }
 }

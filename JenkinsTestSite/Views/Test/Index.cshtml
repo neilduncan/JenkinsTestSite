@@ -1,5 +1,5 @@
 ﻿@{
     ViewBag.Title = "Index";
 }
-
-<h2>mind=blown x3</h2>
+@using System.Configuration
+<h2>Config value is @ConfigurationManager.AppSettings("TestConfig")</h2>
