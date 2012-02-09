@@ -1,6 +1,6 @@
 <project name="Analyse" xmlns="http://nant.sf.net/release/0.91/nant.xsd">
   <target name="run-tests">
-    <property name="test-runner-path" value="packages\NUnit.2.5.10.11092\tools\nunit-console.exe"/>
+    <property name="test-runner-path" value="tools\nunit\nunit-console.exe"/>
     <property name="source-path" value="Example.Tests\bin\${version}\Example.Tests.dll"/>
 
     <echo message="${test-runner-path}"/>
