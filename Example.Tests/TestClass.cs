@@ -11,12 +11,12 @@ namespace Example.Tests
             Assert.IsTrue(true);
         }
 
-        [Test]
-        public void Failing_Test()
-        {
-#if DEBUG
-            Assert.IsTrue(false);
-#endif
-        }
+        //        [Test]
+        //        public void Failing_Test()
+        //        {
+        //#if DEBUG
+        //            Assert.IsTrue(false);
+        //#endif
+        //        }
     }
 }
